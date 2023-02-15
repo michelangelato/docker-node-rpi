@@ -2,7 +2,7 @@
 
 Test Web App dockerized into a RPI.
 
-# Getting Started
+## Getting Started
 
 ```
 docker build . -t robomucca/docker-node-rpi
