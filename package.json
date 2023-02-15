@@ -1,0 +1,13 @@
+{
+	"name": "docker-node-rpi",
+	"version": "1.0.0",
+	"description": "Test node on RPI with docker",
+	"author": "First Last <michelangelomarani88@gmail.com>",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.16.1"
+	}
+}
